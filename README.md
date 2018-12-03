@@ -11,6 +11,15 @@ Working Android app will be available at this location : https://github.com/llRi
 
 
 
+## App Screen Capture
+<img src="https://github.com/llRizvanll/Android-Angular-App/blob/master/app/images/screen.png" width="400">
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 
 # Angular setup guide
