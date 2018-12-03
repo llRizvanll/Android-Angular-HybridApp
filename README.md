@@ -1,6 +1,20 @@
-# Android App
+## Android App
+Working Android app will be available at this location : https://github.com/llRizvanll/Android-Angular-App
 
-Working Android app will be available at this location : 
+
+## Setup
+1. Run Angular App using "ng build " command from : https://github.com/llRizvanll/Android-Angular-HybridApp to generate dist
+2. Copy generated dist files to Android Directory - Assets folder : https://github.com/llRizvanll/Android-Angular-App/tree/master/app/src/main/assets
+3. Make sure you're pointing right location in activity file 
+4. Run Android App
+
+
+
+
+
+
+# Angular setup guide
+--------------------------------------------
 
 # EmployeeApp
 
